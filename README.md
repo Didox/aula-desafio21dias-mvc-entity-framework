@@ -16,7 +16,7 @@
   git init
   git add .
   git commit -m "Iniciando projeto"
-  git remote add origin git@github.com:torneseumprogramador/aula-desafio21dias-mvc-entity-framework.git
+  git remote add origin git@github.com:didox/aula-desafio21dias-mvc-entity-framework.git
   git branch -M main
   git push -u origin main
 ```
