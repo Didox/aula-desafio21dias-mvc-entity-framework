@@ -47,3 +47,21 @@ dotnet aspnet-codegenerator controller -name AlunosController -m Aluno -dc DbCon
 
 ```
 
+
+# Um pouco sobre API REST
+
+GET - Buscar informações
+POST - Cadastrar informações
+
+PUT - Fazer alterações de todos os campos
+PATCH - Para fazer alterações de alguns campos
+
+DELETE - Apagar as informações
+
+
+Web - HTML ....   Amaram as coisas por suas tags
+SOAP - XML ....
+
+REST - GET, POST, PUT, DELETE ... Minimo para uma App rest, (JSON ou XML)
+
+RESTFULL - GET, POST, PUT, DELETE ... Responde por formatos diferentes, HTML, JSON, XML, CSV 
